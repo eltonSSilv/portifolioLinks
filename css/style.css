@@ -22,7 +22,7 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
-  --highlight-color: rgba(0, 0, 0, 0.1);
+  --highlight-color: rgba(0, 0, 0, 0.3 );
   --switch-bg-url: url(../assets/assets/sun.svg);
 }
 
