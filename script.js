@@ -15,9 +15,9 @@ html.classList.toggle('light')
 
 //MUDANDO A IMAGEM 
 if(html.classList.contains('light')) {
-  img.setAttribute("src", "./assets/assets/avatar-elton-light.jpeg")
+  img.setAttribute("src", "./assets/assets/avatar-elton.jpeg")
 } else { 
-  img.setAttribute("src", "./assets/assets/avatar elton.jpeg")
+  img.setAttribute("src", "./assets/assets/avatar-eltonLight.jpeg")
 }
 
 
